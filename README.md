@@ -2,6 +2,8 @@
 Blogs, Tutorials and  Articles  on implementations of Technologies
 
 
+## Tensorflow
+- https://medium.freecodecamp.org/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274 
 
 
 ## Generic
