@@ -18,4 +18,6 @@ Blogs, Tutorials and  Articles  on implementations of Technologies
 ## Product Design
 
 
+
 1. UX Tutorial | The Difference Between User Journeys and User Flows https://www.youtube.com/watch?v=-MqBBvw6wBY
+2. UX Tutorial | How To Write User Stories https://www.youtube.com/watch?v=eYZ8vBXL1kk
