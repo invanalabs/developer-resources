@@ -21,3 +21,4 @@ Blogs, Tutorials and  Articles  on implementations of Technologies
 
 1. UX Tutorial | The Difference Between User Journeys and User Flows https://www.youtube.com/watch?v=-MqBBvw6wBY
 2. UX Tutorial | How To Write User Stories https://www.youtube.com/watch?v=eYZ8vBXL1kk
+3. A Detailed Glimpse into My UI/UX Design Prep Work - Requirements & User Stories https://www.youtube.com/watch?v=8RPhZcYeGr0
