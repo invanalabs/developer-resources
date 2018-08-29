@@ -11,5 +11,5 @@ find . -path "*/migrations/*.pyc"  -delete
 
 ### dumping the data
 ```
-python manage.py dumpdata --natural-foreign --natural-primary -e contenttypes -e auth.Permission -e admin.logentry -e sessions.session --indent 4 > initial_data.json
+python manage.py dumpdata -e contenttypes -e auth.Permission -e admin.logentry -e sessions.session --indent 4 > initial_data.json
 ```
