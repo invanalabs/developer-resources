@@ -13,7 +13,7 @@ Blogs, Tutorials and  Articles  on implementations of Technologies
 - [https://crontab.guru/](https://crontab.guru/)
 - Run a cron job with docker https://www.ekito.fr/people/run-a-cron-job-with-docker/ 
 - `# -*- coding: utf-8 -*-`
-
+- Python packaging https://packaging.python.org/tutorials/packaging-projects/
 
 ## Product Design
 
