@@ -15,6 +15,7 @@ Blogs, Tutorials and  Articles  on implementations of Technologies
 - `# -*- coding: utf-8 -*-`
 - Python packaging https://packaging.python.org/tutorials/packaging-projects/
 - Bootstrap collapsable sidebar https://bootsnipp.com/snippets/kl2OQ 
+- Bootstrap collapsable sidebar slim implementation https://codepen.io/nirmalkc/pen/JKjmVg
 
 ## Product Design
 
